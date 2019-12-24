@@ -1,6 +1,5 @@
 ## Wifian di Jakarta
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors)
-Kurasi tempat wifi-an di Jakarta, kadang malas dirumah tapi bingung mau kemana 😋
+Kurasi tempat wifi-an di Jakarta, kadang malas dikost tapi bingung mau kemana 😋
 
 ## Indeks
 
@@ -29,6 +28,22 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 Wifi lumayan kenceng disetiap meja juga ada colokan, kursi nyaman, suasana nyaman tidak ribut dan juga ada smoking area.
 ```
 Gunakan Google CDN, Login Menggunakan No Hp
+```
+
+### McDonald's Plaza Sentral
+> Restoran cepat saji klasik yang telah lama berdiri, terkenal dengan burger, kentang goreng, dan milkshake.
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Plaza Sentral Ground Floor, Jl. Jend. Sudirman No.Kav.47-48, RT.5/RW.4, Karet Semanggi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 10250](https://goo.gl/maps/M1yNQmsDWKR8FP558) | 24 jam | Mulai Rp 10rb
+
+Terdapat beberapa meja melingkar yang cocok bwt nugas bareng temen, cocok buat ber3-4 orang.
+Install aplikasi mobile Mcdonalds agar dapat promo :)
+
+```
+SSID=Mcdonalds (klo gak salah)
+username=mcdelivery
+pass=14045
 ```
 
 ## Contributors ✨

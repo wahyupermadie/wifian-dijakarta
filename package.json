@@ -1,0 +1,14 @@
+{
+  "name": "wifian-dijakarta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wahyupermadie/wifian-dijakarta.git",
+  "author": "wayanjimmy <jimmyeatcrab@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "fiddly": "^0.8.0"
+  },
+  "scripts": {
+    "build": "fiddly"
+  }
+}
